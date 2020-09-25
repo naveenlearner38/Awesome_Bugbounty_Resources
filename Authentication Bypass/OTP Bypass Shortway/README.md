@@ -11,6 +11,9 @@
 
     - In this report author modified response from false to true. So it is Bypassed.
 
+- [OTP Bypass on India’s Biggest Video Sharing Site.](https://medium.com/bugbountywriteup/otp-bypass-on-indias-biggest-video-sharing-site-e94587c1aa89)
+    
+    - In this they copied correct otp response then they are pasting in wrong otp response.
 
 ## Social Login Bypass
 
